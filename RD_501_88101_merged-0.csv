@@ -1,0 +1,52 @@
+state,mean.1999,mean.2012,State.Name,State.Abbr
+1,19.956391,9.986336,Alabama             ,AL                  
+2,6.665929,5.152499,Alaska              ,AK                  
+4,10.795547,8.922199,Arizona             ,AZ                  
+5,15.676067,10.410378,Arkansas            ,AR                  
+6,17.655412,10.061231,California          ,CA                  
+8,7.533304,9.590744,Colorado            ,CO                  
+9,13.276085,8.045965,Connecticut         ,CT                  
+10,14.492895,10.48701,Delaware            ,DE                  
+11,15.786507,11.501394,District of Columbia,DC                  
+12,11.137139,7.912665,Florida             ,FL                  
+13,19.94324,12.174491,Georgia             ,GA                  
+15,4.861821,7.875239,Hawaii              ,HI                  
+16,9.321034,13.499815,Idaho               ,ID                  
+17,16.72455,10.931113,Illinois            ,IL                  
+18,15.639703,11.73181,Indiana             ,IN                  
+19,11.52374,9.916741,Iowa                ,IA                  
+20,12.3919,8.42386,Kansas              ,KS                  
+21,16.039906,11.414921,Kentucky            ,KY                  
+22,14.293732,11.645839,Louisiana           ,LA                  
+23,9.519416,6.995051,Maine               ,ME                  
+24,15.985083,10.312441,Maryland            ,MD                  
+25,12.314527,8.420305,Massachusetts       ,MA                  
+26,13.819438,7.532625,Michigan            ,MI                  
+27,10.090739,7.978962,Minnesota           ,MN                  
+28,16.297349,10.958749,Mississippi         ,MS                  
+29,13.555692,10.438722,Missouri            ,MO                  
+30,9.199872,9.831277,Montana             ,MT                  
+31,9.16777,9.45659,Nebraska            ,NE                  
+32,9.235101,7.854127,Nevada              ,NV                  
+33,11.836578,6.661175,New Hampshire       ,NH                  
+34,13.866028,9.06948,New Jersey          ,NJ                  
+35,6.511285,8.435022,New Mexico          ,NM                  
+36,12.453519,8.667885,New York            ,NY                  
+37,15.760104,9.654112,North Carolina      ,NC                  
+38,7.988184,6.342548,North Dakota        ,ND                  
+39,17.578823,11.853348,Ohio                ,OH                  
+40,10.657617,10.499426,Oklahoma            ,OK                  
+41,9.148453,7.522605,Oregon              ,OR                  
+42,14.370468,10.918486,Pennsylvania        ,PA                  
+44,11.30066,7.026989,Rhode Island        ,RI                  
+45,14.685859,9.247593,South Carolina      ,SC                  
+46,9.586732,7.100544,South Dakota        ,SD                  
+47,17.129217,11.67097,Tennessee           ,TN                  
+48,12.15783,11.243459,Texas               ,TX                  
+49,9.356495,6.19446,Utah                ,UT                  
+50,9.711592,6.785278,Vermont             ,VT                  
+51,14.332742,8.627237,Virginia            ,VA                  
+53,9.966754,7.08231,Washington          ,WA                  
+54,16.769652,10.343934,West Virginia       ,WV                  
+55,12.682977,8.120156,Wisconsin           ,WI                  
+56,7.207296,5.0052,Wyoming             ,WY                  
